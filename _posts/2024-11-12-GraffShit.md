@@ -13,6 +13,17 @@ image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 {% endfor %}
 
 
+<object
+  type="application/pdf"
+  data="https://ia601809.us.archive.org/19/items/image_20250428_2325/CiTYHALLGRAFFSimpleScanStation20250611190559.pdf"
+  width="500"
+  height="400"></object>
+
+  [Finger-pointing continues in downtown LA graffiti saga FOX11 @foxbroadcasting](https://www.youtube.com/watch?v=dCh_ggVG_qo)  [DTLA](https://youtube.com/shorts/Mz5FyXKdo8E?si=WOQITWoZf3PdJGOt) [LA city workers remove graffiti debris from violent protests](https://youtu.be/nGvMB2LpF8k?t=2) [Will Smith - Pretty @blackGirlscode (Official Video)](https://www.youtube.com/watch?v=NMeIUNcCUjE)
+
+# California Constitution
+<object data="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf" type="application/pdf" width="800" height="500">
+<p>You don't have a PDF plugin, but you can <a href="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf">download the PDF file.</a></p></object>
 
 [Mayor Bass pushes back on media portrayal of protests: “It is a lie”](https://www.cnn.com/us/live-news/la-protests-ice-raids-trump-06-11-25) @cityoflosangeles @stateofcalifornia [Feel the Heartbeat (Have Fun)](https://www.youtube.com/watch?v=hUjmayTb3YQ)
 
